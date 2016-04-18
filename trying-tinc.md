@@ -25,4 +25,14 @@
   - LinkedIn: https://www.linkedin.com/in/nibalizer
   - Freenode: nibalizer
 
+### tinc-gui (Android)
+
+* TODO
+
+### See also
+
+* http://ml.ninux.org/pipermail/torino/2016-March/000300.html
+* http://ninux.org/nnxx
+  
+
 <!-- EOF -->
