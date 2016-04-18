@@ -16,7 +16,7 @@
 
 * http://www.fossetcon.org/2015/sessions/secure-peer-networking-tinc
   - Slides: https://speakerdeck.com/nibalizer/secure-peer-networking-with-tinc
-  - Main author: Spencer Krum - IBM - https://speakerdeck.com/nibalizer/secure-peer-networking-with-tinc
   - Slides sources: https://github.com/nibalizer/tinc-presentation
+  - Author: Spencer Krum - IBM - https://speakerdeck.com/nibalizer
 
 <!-- EOF -->
