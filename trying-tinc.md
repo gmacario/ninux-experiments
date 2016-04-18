@@ -4,7 +4,7 @@
 
 ### Presentations about tinc
 
-#### Secure Peer Networking with TINC (2016-01-23)
+#### Talk "Secure Peer Networking with TINC" At SCaLE 14x (2016-01-23)
 
 * http://spencerkrum.com/talks/tinc-consul-scale14x/slides/#1
 
