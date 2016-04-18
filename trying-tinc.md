@@ -18,5 +18,6 @@
   - Slides: https://speakerdeck.com/nibalizer/secure-peer-networking-with-tinc
   - Slides sources: https://github.com/nibalizer/tinc-presentation
   - Author: Spencer Krum - IBM - https://speakerdeck.com/nibalizer
+  - Spencer Krum homepage: http://spencerkrum.com/
 
 <!-- EOF -->
