@@ -12,7 +12,7 @@
 
 * https://rootconf.talkfunnel.com/2016/12-tinc
 
-#### Another talk
+#### Talk "Secure Peer Networking with tinc" at Fossetcon, 2015-11-20
 
 * http://www.fossetcon.org/2015/sessions/secure-peer-networking-tinc
   - Slides: https://speakerdeck.com/nibalizer/secure-peer-networking-with-tinc
