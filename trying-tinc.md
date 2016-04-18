@@ -27,7 +27,8 @@
 
 ### tinc-gui (Android)
 
-* TODO
+* App: http://tinc_gui.poirsouille.org/
+* Sources: https://github.com/Vilbrekin/tinc_gui
 
 ### See also
 
