@@ -31,8 +31,8 @@
 * [How to install and configure tinc VPN on Linux - Xmodulo](http://xmodulo.com/how-to-install-and-configure-tinc-vpn.html)
 * [Quick & Dirty TINC setup - Vanheusden](https://www.vanheusden.com/linux/tinc_mini_howto.html)
 * [Ubuntu Manpage: tinc.conf - tinc daemon configuration](http://manpages.ubuntu.com/manpages/xenial/en/man5/tinc.conf.5.html)
-* [Ubuntu Packages - tinc](http://packages.ubuntu.com/search?keywords=tinc)
-* [tinc package : Ubuntu - Launchpad](https://launchpad.net/ubuntu/+source/tinc)
+* [Ubuntu Packages: tinc](http://packages.ubuntu.com/search?keywords=tinc)
+* [tinc package: Ubuntu - Launchpad](https://launchpad.net/ubuntu/+source/tinc)
 
 ### tinc-gui (Android)
 
