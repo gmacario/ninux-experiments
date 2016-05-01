@@ -1,0 +1,31 @@
+# See also:
+# - Compose file reference: https://docs.docker.com/compose/compose-file/
+
+version: '2'
+
+services:
+  tinc:
+    # image: ubuntu:16.04
+    build: mytinc
+    # ports:
+    #   - "9080:8080"
+    #   - "51000:50000"
+    # tty: true
+    # privileged: true
+
+  # build-yocto-slave:
+  #   image: gmacario/build-yocto:latest
+  #   user: jenkins
+  #   entrypoint: ""
+  #   command: "java -jar /usr/share/jenkins/slave.jar -jnlpUrl http://master:8080/computer/build-yocto-slave/slave-agent.jnlp"
+  #   links:
+  #     - myjenkins:master
+  #   volumes:
+  #     - data:/home/jenkins
+
+# volumes:
+#   data:
+#   downloads:
+#   sstate-cache:
+
+# EOF
