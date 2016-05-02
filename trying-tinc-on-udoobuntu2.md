@@ -5,7 +5,7 @@ Prerequisites:
 * One UDOO NEO Full connected to Internet 
 * UDOObuntu2 installed
 
-Login to udooneo-gm via Remote Terminal (i.e. browse http://http://100.84.248.76:8000/)
+Login to udooneo-gm via Remote Terminal (i.e. browse http://100.84.248.76:8000/)
 
 Logged as udooer@udooneo-gm
 
