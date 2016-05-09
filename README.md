@@ -10,6 +10,6 @@ Copyright (C) 2016, [Gianpaolo Macario](https://gmacario.github.io/).
 
 ninux-experiments documentation is licensed under the Creative Commons License Attribution-ShareAlike 4.0 International.
 
-ninux-experiments code is licensed under the MIT License. See LICENSE for the full license text.
+ninux-experiments code is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
 
 <!-- EOF -->
