@@ -7,10 +7,22 @@ Prerequisites:
 
 Login to udooneo-gm via Remote Terminal (i.e. browse http://100.84.248.76:8000/) - or via the [serial console](http://gmacario.github.io/howto/udoo/neo/embedded/software/development/2015/11/08/connecting-to-udoo-neo-serial-console.html)
 
-Logged as udooer@udooneo-gm
+Logged as udooer@udooneo-gm, change password for user "udooer", then configure hostname
+
+```
+$ passwd udooer
+$ echo "udooneo-gm" | sudo tee /etc/hostname
+```
+
+Update installed Ubuntu packages
 
 ```
 $ sudo apt-get update && sudo apt-get -y dist-upgrade
+```
+
+Install TINC
+
+```
 $ sudo apt-get -y install tinc
 ```
 
